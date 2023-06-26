@@ -1,0 +1,8 @@
+export("genData.P", "GRCglm.P", "link.log")
+S3method(summary, GRCglm.P)
+S3method(print, GRCglm.P)
+S3method(print, summary.GRCglm.P)
+importFrom("stats", "qnorm", "ppois", "dpois", "make.link", "pnorm", "rnorm",
+  "rpois")
+importFrom("MASS", "ginv")
+importFrom("pracma", "grad")

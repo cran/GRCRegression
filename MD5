@@ -1,0 +1,9 @@
+45fe22705688809240e1c546b434bd0a *DESCRIPTION
+8c71b35c898498daf928e4175bd90cfa *NAMESPACE
+b056014ec072edb886eb4af2d1446c7c *R/GRCRegression_internal_functions.R
+6b19baa548c2d3ea6730ec106212e2e2 *R/GRCglm.P.R
+91eb7bc71aaee5c5b074215136d6ea20 *R/genData.R
+12fe022ccd5ebd5a83cda67fbb43b36b *man/GRCglm.Rd
+41accedb8a0a9b9ad82b6e894c4a9e63 *man/genData.Rd
+398dc40901112ff0bc21b837e3ff16ba *man/link.Rd
+759dc3ab2b3c8428dd688e04c74792b9 *man/summary.Rd
